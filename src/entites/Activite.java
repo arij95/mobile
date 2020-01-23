@@ -7,7 +7,7 @@ package entites;
 
 /**
  *
- * @author challakh
+ * @author challakhhh
  */
 public class Activite {
     private int id;
